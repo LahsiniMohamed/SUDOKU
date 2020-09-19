@@ -1,3 +1,5 @@
+#place your SODUKU in the "ex" variable. make sure to put a 0 in the emty places at the soduku
+#every list in the "ex" variable should represent a row in the SODUKU
 ex = [[0,0,0,4,6,0,0,3,0],[9,8,0,0,5,1,6,7,2],[0,1,3,2,8,0,0,0,0],[1,0,0,0,0,3,2,0,4],[0,0,5,1,2,0,3,0,0],[8,0,0,0,4,0,0,5,7],[0,0,0,6,9,0,4,1,0],[4,2,9,0,0,0,0,0,3],[0,6,1,7,0,4,0,0,0]]
 def soduku(table):
     
